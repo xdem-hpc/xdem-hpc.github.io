@@ -1,0 +1,22 @@
+title: XDEM-HPC
+description: >
+  High-Performance Computing platform for Discrete Element Method simulations
+  with two-way CFD-DEM coupling. Julia-based, GPU-ready.
+
+theme: minima
+
+author:
+  name: Bernhard Peters
+  email: bernhard-josef.peters@vilniustech.lt
+
+url: "https://xdem.de"
+
+# Navigation links shown in header
+header_pages:
+  - about.md
+  - software.md
+  - publications.md
+  - contact.md
+
+# GitHub org link (shown in footer by minima theme)
+github_username: xdem-hpc
