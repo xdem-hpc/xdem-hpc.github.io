@@ -4,6 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Bernhard Peters  
-Vilnius Gediminas Technical University  
-[bernhard-josef.peters@vilniustech.lt](mailto:bernhard-josef.peters@vilniustech.lt)
+Bernhard Peters    
+[bernhard.peters@xdem.de](mailto:bernhard.peters@xdem.de)
