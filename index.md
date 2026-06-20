@@ -31,5 +31,7 @@ AMD ROCm).
 ## Background
 
 XDEM (eXtended Discrete Element Method) was originally developed at the
-University of Luxembourg. XDEM-HPC continues this work with a focus on
+University of Luxembourg. That codebase is no longer maintained or accessible.
+XDEM-HPC is a full redesign led by Vilnius Gediminas Technical University,
+continuing the scientific vision with a modern Julia implementation focused on
 scalable HPC and GPU computing.
