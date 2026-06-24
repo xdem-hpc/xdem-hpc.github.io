@@ -27,8 +27,8 @@ XDEM-HPC addresses this by combining:
   gradients, species transport, phase changes, and heterogeneous reactions inside
   the particle.
 - **Two-way CFD-DEM coupling** — particles exchange heat, mass, and momentum with
-  a surrounding fluid phase solved by OpenFOAM, enabling packed-bed and
-  fluidised-bed simulations at industrial scale.
+  a surrounding fluid phase solved by OpenFOAM satisfying conservation of exchanged 
+  properties and  enabling packed-bed and fluidised-bed simulations at industrial scale.
 - **HPC and GPU computing** — the solver is written in Julia and targets CPU
   clusters via MPI as well as GPU accelerators (NVIDIA CUDA, AMD ROCm) through
   a single backend-agnostic codebase.
@@ -37,9 +37,8 @@ XDEM-HPC addresses this by combining:
 
 The XDEM concept was originally conceived at the Research Centre Karlsruhe, now
 the Karlsruhe Institute of Technology (KIT) where pioneering work was carried out 
-by Bernhard Peters. Further develoment was undertaken at the University of Luxembourg
-By Bernhard Peters. However, that codebase is curretnly no longer maintained or accessible. 
+by Bernhard Peters. Further development was undertaken at the University of Luxembourg
+by Bernhard Peters. However, that codebase is currently no longer maintained or accessible. 
 XDEM-HPC is a full redesign from the ground up, retaining the scientific foundation 
 while replacing the C++ implementation with a modern Julia framework built for 
-scalable HPC and GPU
-computing.
+scalable HPC and GPU computing.

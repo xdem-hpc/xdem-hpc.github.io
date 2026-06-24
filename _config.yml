@@ -1,7 +1,7 @@
 title: XDEM-HPC
 description: >
   High-Performance Computing platform for Discrete Element Method simulations
-  with two-way CFD-DEM coupling including one-way coupling in both directions. Julia-based, GPU/CPU-ready.
+  with a first and foremost conservative two-way CFD-DEM coupling including one-way coupling in both directions. Julia-based, GPU/CPU-ready.
 
 theme: minima
 
